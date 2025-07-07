@@ -34,7 +34,7 @@ Follow these steps to set up and start exploring:
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/ml-playground.git
+    git clone https://github.com/itsmeayan45/ml-playground.git
     cd ml-playground
     ```
 
