@@ -18,11 +18,10 @@ Welcome to **ML Playground** – your sandbox for exploring, learning, and proto
 
 ```
 ml-playground/
-├── data/           # Sample datasets for experiments
-├── notebooks/      # Jupyter notebooks (tutorials, demos, experiments)
-├── scripts/        # Standalone Python scripts for ML tasks
-├── utils/          # Utility modules and helper functions
-├── requirements.txt# Python dependencies
+├── forest_fire_prediction/   # a simple project to calculate FWI
+├── learning/      # Various Machine Learning Algorithms (tutorials, demos, experiments)
+├── project/        # Trying something new
+├── requirements.txt    # Python dependencies
 └── README.md       # Project documentation
 ```
 
